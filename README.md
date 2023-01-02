@@ -1,4 +1,4 @@
-# Dictionary
+# Interactive_dataset_analyzer
 
 
 Project Goal: 
