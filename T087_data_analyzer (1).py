@@ -1,7 +1,5 @@
 #Zarif Khan 101224172
-#Aiden Hepburn 101220580
-#Chen Chen 101235800
-#Ben Metcalfe 101234641
+
 #March 12, 2022
 #Version 1.0
 
