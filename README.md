@@ -33,24 +33,14 @@ The interactive user interface will run:
 
 ```
 The available commands are:
-1-
-2-
-3-
-4-
-5-
-6-
-7-
-Please
-L)oad data
-A)dd book
-R) emove book
-G)et books
-T)itle R)ate P)ublisher A)uthor
-GCT)Get all Categories for book Title
-S)ort books
-T)itle R)ate p)ublisher A)uthor
-Q)uit
-type your command:
+1- L)oad data
+2 -A)dd book
+3- R) emove book
+4- G)et books T)itle R)ate P)ublisher A)uthor
+5- GCT)Get all Categories for book Title
+6- S)ort books T)itle R)ate p)ublisher A)uthor
+7- Q)uit
+Please type your command:
 ```
 
 
