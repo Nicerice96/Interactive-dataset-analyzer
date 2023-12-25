@@ -1,16 +1,16 @@
 # Interactive_dataset_analyzer
 
 
-Project Goal: 
+# Project Goal: 
 
 The goal of this project was to build an interactive dataset analyzer program that would
 allow the user to enter a file containing a list of books (with the book's information) upon which
 the user is then prompted to enter a command. Once the command has been entered, the dataset
 analyzer would analyze the file and return the analyzed data to the user.
 
-The Project Design:
+# The Project Design:
 
-The program will behave as described in the following steps:
+__The program will behave as described in the following steps:__
 
 1) A user interface will prompt the user to enter a command however if the user inputs a
 command other than “L” to load the data file, the user interface will prompt the user to
@@ -24,3 +24,34 @@ a book etc.) and return the analyzed data to the user
 
 4) The program will continue to the prompt the user until the user enters “Q” to exit the
 program
+
+With Python installed, run this command:
+
+``` >>>python ```
+
+The interactive user interface will run:
+
+```
+The available commands are:
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+Please
+L)oad data
+A)dd book
+R) emove book
+G)et books
+T)itle R)ate P)ublisher A)uthor
+GCT)Get all Categories for book Title
+S)ort books
+T)itle R)ate p)ublisher A)uthor
+Q)uit
+type your command:
+```
+
+
+When prompted, enter a command to execute the desired function. Some functions will ask for the file name or book title. To utilize commands 2-6, the dataset must be loaded or the messageor the message _"File not loaded"_ will be returned. To load the dataset, eneter L when prompted to enter a command. 
