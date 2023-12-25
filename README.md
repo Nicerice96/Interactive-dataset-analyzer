@@ -1,14 +1,14 @@
 # Interactive_dataset_analyzer
 
 
-##Project Goal: 
+## Project Goal: 
 
 The goal of this project was to build an interactive dataset analyzer program that would
 allow the user to enter a file containing a list of books (with the book's information) upon which
 the user is then prompted to enter a command. Once the command has been entered, the dataset
 analyzer would analyze the file and return the analyzed data to the user.
 
-##The Project Design:
+## The Project Design:
 
 __The program will behave as described in the following steps:__
 
